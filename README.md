@@ -4,6 +4,7 @@ Built on Flutter Framework. This app tracks the live status of corona patients u
 
 ## SneakPeak of the App
 
+<img src="https://user-images.githubusercontent.com/43682796/90616579-393d2100-e22b-11ea-9ef7-c6d23463b1d0.gif" width="230" height="400" />
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/43682796/90616579-393d2100-e22b-11ea-9ef7-c6d23463b1d0.gif)
 
 ### ScreenShots of the App
